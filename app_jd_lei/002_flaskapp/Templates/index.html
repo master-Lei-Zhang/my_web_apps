@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="JD CLF Lei" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Enter the job description in this box:</h2>
+
+    <form method="POST" action="/">
+        <input type="text" name="jd" value="">
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    {% if jd_text %}
+    <p>{{ jd_text }}</p>
+    {% endif %}
+
+    {% if pred %}
+    <p>This job is more like {{ pred }}</p>
+    {% endif %}
+    
+</body>
+</html>
