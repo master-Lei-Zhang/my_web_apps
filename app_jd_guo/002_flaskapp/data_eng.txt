@@ -1,0 +1,46 @@
+architect
+architecture
+architectures
+automated
+automation
+aws
+azure
+cloud
+cloudera
+data engineer
+data engineering
+data engineers
+data pipeline
+data pipelines
+data platform
+data systems
+database
+databases
+dimensional
+emr
+etl
+hadoop
+hive
+infrastructure
+ingest
+ingestion
+integrating
+interactive
+kafka
+mysql
+nifi
+nosql
+relational
+schema
+schemas
+scripting
+server
+shell
+snowflake
+sources
+spark
+sql
+ssis
+warehouse
+warehousing
+airflow

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="JD CLF Lei" content="width=device-width, initial-scale=1.0">
-    <title>JD CLF Lei</title>
+    <meta name="JD rule model Guo" content="width=device-width, initial-scale=1.0">
+    <title>JD rule model Guo</title>
 </head>
 <body>
     <h2>Enter the job description in this box:</h2>
@@ -15,12 +15,24 @@
         <input type="submit" value="Submit">
     </form>
 
-    {% if jd_text %}
-    <p>{{ jd_text }}</p>
+    {% if DA %}
+    <p>DA: {{ DA }}</p>
     {% endif %}
 
-    {% if pred %}
-    <p>This job is more like {{ pred }}</p>
+    {% if DS %}
+    <p>DS: {{ DS }}</p>
+    {% endif %}
+
+    {% if MLE %}
+    <p>MLE: {{ MLE }}</p>
+    {% endif %}
+
+    {% if DE %}
+    <p>DE: {{ DE }}</p>
+    {% endif %}
+
+    {% if label %}
+    <p>label: {{ label }}</p>
     {% endif %}
     
 </body>

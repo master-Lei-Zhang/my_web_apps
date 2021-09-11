@@ -1,0 +1,42 @@
+advanced degree
+algorithms
+business need
+business problems
+classification
+clustering
+coding
+data mining
+data science
+data scientist
+data scientists
+deep learning
+exploratory
+explore
+feature engineering
+forcasting
+keras
+labels
+machine learning
+modeling
+models
+natural language processing
+nlp
+notebooks
+phd
+predict
+prediction
+predictions
+predictive
+pricing
+programming
+python
+r
+recommendation system
+recommendation systems
+recommender
+regression
+scikit
+sklearn
+tensorflow
+time series
+validation
